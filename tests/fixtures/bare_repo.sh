@@ -1,4 +1,4 @@
-#!/bin/bash
-set -eu -o pipefail
+#!/bin/sh
+set -eu
 
 git init -q --bare
